@@ -11,9 +11,8 @@
 ### 👨‍💻 About Me
 I am a Computer Science student passionate about solving complex problems through efficient code. My current focus is mastering **Software Engineering** and **Algorithms**, building a solid foundation for large-scale systems.
 
-* 🔭 Currently working on: **Object-Oriented Programming (Java)**
+* 🔭 Currently working on: **Object-Oriented Programming (Java) and Imperative Programming (C)**
 * 🎓 Goal: **To develop robust, scalable, and high-impact software.**
-* ⚡ Fact: Consistency beats intensity.
 
 ---
 ### 🛠️ Tech Stack
