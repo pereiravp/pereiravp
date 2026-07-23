@@ -22,6 +22,8 @@ Third-year student on the **BSc in Computer Science (LCC)** at the **University 
 
 I write **Haskell, C, Java and SQL**. The degree teaches something narrower and more useful than a language list: how to reason about whether a program is *correct*, not just whether it runs.
 
+Working in Personal Projects...
+
 ---
 
 ## Languages & Tools
@@ -29,6 +31,18 @@ I write **Haskell, C, Java and SQL**. The degree teaches something narrower and 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=haskell,c,java,mysql,bash,git,github,linux,vscode" alt="Languages and tools"/>
 </p>
+
+
+---
+
+## Personal Projects
+
+Work outside of coursework, focused on design decisions and testing. Currently exploring ...
+
+| Project | Description | Language | Repository |
+| ------- | ----------- | :------: | :--------: |
+| Elevator Control Simulator | Discrete simulation of an elevator control system. Safety invariants enforced on every state transition, directional scan scheduling, and a JUnit 5 suite covering movement, boundary validation and refusal of unsafe commands. | Java | [ECS](https://github.com/pereiravp/ECS) |
+
 
 ---
 
