@@ -18,9 +18,9 @@
 
 ## About
 
-Third-year student on the **BSc in Computer Science (LCC)** at the **University of Minho**, Braga — a joint degree between the Mathematics and Informatics departments, weighted more toward mathematics than most computing programmes.
+Third-year student on the **BSc in Computer Science (LCC)** at the **University of Minho**, Braga.
 
-I write **Haskell, C, Java and SQL**. The degree teaches something narrower and more useful than a language list: how to reason about whether a program is *correct*, not just whether it runs.
+Currently seeking for what pushes me the most in this world of technology.
 
 Working in Personal Projects...
 
