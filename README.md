@@ -20,9 +20,12 @@
 
 Third-year student on the **BSc in Computer Science (LCC)** at the **University of Minho**, Braga.
 
-Currently seeking for what pushes me the most in this world of technology.
+Most interested in the parts of software where correctness is not optional — systems
+programming, concurrency, and designing programs whose properties can be tested rather
+than assumed.
 
-Working in Personal Projects...
+Still figuring out where that leads. Security engineering and applied machine learning
+are both on the table.
 
 ---
 
@@ -32,17 +35,15 @@ Working in Personal Projects...
   <img src="https://skillicons.dev/icons?i=haskell,c,java,mysql,bash,git,github,linux,vscode" alt="Languages and tools"/>
 </p>
 
-
 ---
 
 ## Personal Projects
 
-Work outside of coursework, focused on design decisions and testing. Currently exploring ...
+Work outside of coursework, focused on design decisions and testing.
 
 | Project | Description | Language | Repository |
 | ------- | ----------- | :------: | :--------: |
-| Elevator Control Simulator | Discrete simulation of an elevator control system. Safety invariants enforced on every state transition, directional scan scheduling, and a JUnit 5 suite covering movement, boundary validation and refusal of unsafe commands. | Java | [ECS](https://github.com/pereiravp/ECS) |
-
+| Elevator Control System | Elevator modelled as a state machine with explicit safety invariants enforced on every transition. A study in safety-critical design and property-based testing. *Early development.* | Java | [ECS](https://github.com/pereiravp/ECS) |
 
 ---
 
@@ -65,9 +66,3 @@ Selected coursework from the BSc in Computer Science at the University of Minho.
 | S2 | Programação Orientada aos Objetos | Smart-home management system — devices, rooms, automations, schedules and energy billing over a simulated clock. | Java | [POO](https://github.com/pereiravp/POO) |
 | S2 | Sistemas Operativos | Multi-runner command orchestration — a controller schedules bash commands from concurrent runners over named pipes, with FIFO and round-robin policies. | C | [SO](https://github.com/pereiravp/SO) |
 | S2 | Bases de Dados | Event management database — events, sessions, venues, registrations and ticketing, with views, stored routines and a payment-validation trigger. | MySQL | [BD](https://github.com/pereiravp/BD) |
-
----
-
-<p align="center">
-  <i>More repositories updating soon.</i>
-</p>
