@@ -39,11 +39,7 @@ are both on the table.
 
 ## Personal Projects
 
-Work outside of coursework, focused on design decisions and testing.
-
-| Project | Description | Language | Repository |
-| ------- | ----------- | :------: | :--------: |
-| Elevator Control System | Elevator modelled as a state machine with explicit safety invariants enforced on every transition. A study in safety-critical design and property-based testing. *Early development.* | Java | [ECS](https://github.com/pereiravp/ECS) |
+Work outside of coursework, focused on design decisions and testing. Full list in [`personal-projects/`](./personal-projects).
 
 ---
 
