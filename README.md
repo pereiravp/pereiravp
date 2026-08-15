@@ -20,12 +20,9 @@
 
 Third-year student on the **BSc in Computer Science (LCC)** at the **University of Minho**, Braga.
 
-Most interested in the parts of software where correctness is not optional — systems
-programming, concurrency, and designing programs whose properties can be tested rather
-than assumed.
+I like the parts of software where you can't just eyeball whether something works: systems programming, concurrency, code where you actually have to test the properties instead of hoping they hold.
 
-Still figuring out where that leads. Security engineering and applied machine learning
-are both on the table.
+Security engineering and applied machine learning are the two directions I'm more motivated to.
 
 ---
 
@@ -39,26 +36,10 @@ are both on the table.
 
 ## Personal Projects
 
-Work outside of coursework, focused on design decisions and testing. Full list in [`personal-projects/`](./personal-projects).
+Work outside of coursework, focused on design decisions and testing, plus open source contributions. Full list in [`personal-projects/`](./personal-projects).
 
 ---
 
 ## University Projects
 
-Selected coursework from the BSc in Computer Science at the University of Minho. Each entry links directly to its repository.
-
-### 1st Year
-
-| Semester | Course | Project | Language | Repository |
-| :------: | ------ | ------- | :------: | :--------: |
-| S1 | Laboratórios de Programação I | Turn-based *Worms* game with destructible terrain, projectile physics and collision handling over an immutable game state, rendered with Gloss. | Haskell | [LP](https://github.com/pereiravp/LP) |
-| S1 | Programação Funcional | Functional programming exercises — recursion, higher-order functions, algebraic data types, trees and type classes. | Haskell | [PF](https://github.com/pereiravp/PF) |
-| S2 | Laboratórios de Algoritmia II | Hitori-style logic puzzle solver with a backtracking search and an interactive CLI. | C | [LAII](https://github.com/pereiravp/LAII) |
-
-### 2nd Year
-
-| Semester | Course | Project | Language | Repository |
-| :------: | ------ | ------- | :------: | :--------: |
-| S2 | Programação Orientada aos Objetos | Smart-home management system — devices, rooms, automations, schedules and energy billing over a simulated clock. | Java | [POO](https://github.com/pereiravp/POO) |
-| S2 | Sistemas Operativos | Multi-runner command orchestration — a controller schedules bash commands from concurrent runners over named pipes, with FIFO and round-robin policies. | C | [SO](https://github.com/pereiravp/SO) |
-| S2 | Bases de Dados | Event management database — events, sessions, venues, registrations and ticketing, with views, stored routines and a payment-validation trigger. | MySQL | [BD](https://github.com/pereiravp/BD) |
+Selected coursework from the BSc in Computer Science at the University of Minho. Full list, by semester, in [`university-projects/`](./university-projects).

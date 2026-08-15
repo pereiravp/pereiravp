@@ -8,5 +8,18 @@
 
 | Project | Description | Language | Repository |
 | ------- | ----------- | :------: | :--------: |
-| Elevator Control System | Elevator modelled as a state machine with explicit safety invariants enforced on every transition. A study in safety-critical design and property-based testing. *Early development.* | Java | [ECS](https://github.com/pereiravp/ECS) |
-| Camping Paço Website | Static rebuild of a real campsite's website — vanilla HTML/CSS/JS, 5-language i18n, no build step. | HTML/CSS/JS | [camping-paco-website](https://github.com/pereiravp/camping-paco-website) |
+| Elevator Control System | Elevator as a state machine, with safety invariants checked on every transition. *Early development.* | Java | [ECS](https://github.com/pereiravp/ECS) |
+| Camping Paço Website | Static rebuild of a real campsite's website: vanilla HTML/CSS/JS, 5-language i18n. | HTML/CSS/JS | [camping-paco-website](https://github.com/pereiravp/camping-paco-website) |
+
+---
+
+## Open Source Contributions
+
+Pull requests to [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp), a deliberately vulnerable training application used to practise and benchmark web security testing.
+
+| Pull Request | Status |
+| ------------ | :----: |
+| Add Challenge mode to XSS | Merged |
+| Add Challenge mode to Path Traversal | Open |
+| Add Challenge mode to XXE | Open |
+| Add Challenge mode to Error-Based and Union-Based SQL Injection | Open |
