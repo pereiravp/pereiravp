@@ -17,9 +17,6 @@
 
 Pull requests to [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp), a deliberately vulnerable training application used to practise and benchmark web security testing.
 
-| Pull Request | Status |
-| ------------ | :----: |
-| Add Challenge mode to XSS | Merged |
-| Add Challenge mode to Path Traversal | Open |
-| Add Challenge mode to XXE | Open |
-| Add Challenge mode to Error-Based and Union-Based SQL Injection | Open |
+| Pull Requests - 6 | Status - Merged|
+## Active contributor
+https://github.com/SasanLabs/VulnerableApp/graphs/contributors?from=5%2F23%2F2026
