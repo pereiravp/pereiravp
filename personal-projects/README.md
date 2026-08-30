@@ -15,8 +15,6 @@
 
 ## Open Source Contributions
 
-Pull requests to [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp), a deliberately vulnerable training application used to practise and benchmark web security testing.
+Contributing to [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp), a deliberately vulnerable training application for practising web security testing. Added Challenge Mode to the Cache Poisoning and Cryptographic Failures modules, and built a new Insecure Deserialization module from scratch.
 
-| Pull Requests - 6 | Status - Merged|
-## Active contributor
-https://github.com/SasanLabs/VulnerableApp/graphs/contributors?from=5%2F23%2F2026
+Invited to join **[SasanLabs](https://github.com/SasanLabs)** as an official member of the [sasanlabs-extended-team](https://github.com/orgs/SasanLabs/teams/sasanlabs-extended-team) in August 2026. Real maintainer review on every PR has made this one of the better places I've learned from.
