@@ -24,6 +24,7 @@ I like the parts of software where you can't just eyeball whether something work
 
 Security engineering and applied machine learning are the two directions I'm more motivated to.
 
+Active Member of Sasan Labs.
 ---
 
 ## Languages & Tools
