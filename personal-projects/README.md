@@ -4,15 +4,6 @@
   Work outside of coursework, focused on design decisions and testing.
 </p>
 
----
-
-| Project | Description | Language | Repository |
-| ------- | ----------- | :------: | :--------: |
-| Elevator Control System | Elevator as a state machine, with safety invariants checked on every transition. *Early development.* | Java | [ECS](https://github.com/pereiravp/ECS) |
-| Camping Paço Website | Static rebuild of a real campsite's website: vanilla HTML/CSS/JS, 5-language i18n. | HTML/CSS/JS | [camping-paco-website](https://github.com/pereiravp/camping-paco-website) |
-
----
-
 ## Open Source Contributions
 
 Contributing to [OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp), a deliberately vulnerable training application for practising web security testing. Added Challenge Mode to the Cache Poisoning and Cryptographic Failures modules, and built a new Insecure Deserialization module from scratch.
