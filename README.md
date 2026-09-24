@@ -20,8 +20,6 @@
 
 Third-year student on the **BSc in Computer Science (LCC)** at the **University of Minho**, Braga.
 
-I like the parts of software where you can't just eyeball whether something works: systems programming, concurrency, code where you actually have to test the properties instead of hoping they hold.
-
 Security engineering and applied machine learning are the two directions I'm more motivated to.
 
 Active Member of @SasanLabs
