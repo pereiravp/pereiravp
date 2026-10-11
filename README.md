@@ -28,7 +28,7 @@ https://github.com/SasanLabs
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=haskell,c,java,mysql,git,github,linux,vscode" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,haskell,mysql,git,github,linux,vscode" alt="Languages and tools"/>
 </p>
 
 ---
